@@ -8,19 +8,16 @@ O objetivo deste projeto é fornecer um modelo de folha de frequência em format
 
 ## Arquivos Disponíveis
 
-*   **[Frequência BIA 2025 - editável v2.pdf](./Frequência%20BIA%202025%20-%20editável%20v2.pdf)**: Versão mais recente e recomendada da folha de frequência.
-*   **[Frequência BIA 2025 - editável.pdf](./Frequência%20BIA%202025%20-%20editável.pdf)**: Versão anterior da folha de frequência.
-*   **[Frequência BIA 2025.pdf](./Frequência%20BIA%202025.pdf)**: Versão original não editável.
+- **[Frequência BIA 2025 - editável.pdf](./Frequência%20BIA%202025%20-%20editável.pdf)**: Versão recomendada da folha de frequência.
+- **[Frequência BIA 2025.pdf](./Frequência%20BIA%202025.pdf)**: Versão original não editável.
 
 ## Como Utilizar
 
 1.  **Baixe o arquivo PDF desejado:**
-    *   Clique no nome do arquivo na lista acima.
-    *   Na página do arquivo, clique no botão "Download".
-2.  **Abra o arquivo em um leitor de PDF compatível com formulários:**
-    *   Recomenda-se o uso do [Adobe Acrobat Reader](https://get.adobe.com/br/reader/) ou outro leitor de PDF que permita o preenchimento de campos.
-3.  **Preencha os campos da folha de frequência.**
-4.  **Salve o arquivo preenchido.**
+    - Clique no nome do arquivo na lista acima.
+    - Na página do arquivo, clique no botão "Download".
+2.  **Preencha os campos da folha de frequência.**
+3.  **Salve o arquivo preenchido.**
 
 ## Contribuição
 
